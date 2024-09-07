@@ -1,0 +1,13 @@
+# enviroments
+/env
+
+# Large files
+*.csv
+
+# folders
+data
+
+# Secret files
+Prediccion_de_ventas_store.ipynb
+Prediccion_de_ventas_store copy.ipynb
+Prediccion_de_ventas_item.ipynb
