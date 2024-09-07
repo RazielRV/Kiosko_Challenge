@@ -1,10 +1,10 @@
 # Kiosko Challenge: 
-El objetivo de este proyecto es crear un modelo que pueda soportar elementos que interfiera en el cálculo de unidades de venta a futuro.
+The objective of this project is to create a model that can support elements that interfere with the calculation of future sales units.
 
 ## Vision
-La cadena de tiendas enfrenta desafíos en la gestión eficiente de inventarios debido a la variabilidad en las ventas de productos, que se ve influenciada por múltiples factores como promociones, estacionalidad y eventos especiales. Un modelo preciso de predicción de ventas ayudará a reducir costos de almacenamiento, minimizar pérdidas por productos no vendidos y mejorar la disponibilidad de productos en las tiendas.
+Retailers face challenges in efficient inventory management due to variability in product sales, which is influenced by multiple factors such as promotions, seasonality, and special events. An accurate sales prediction model will help reduce storage costs, minimize losses from unsold products, and improve product availability in stores.
 
-## Estructura del proyecto
+## Project Struture
 
 ```bash
 ├── data
@@ -33,7 +33,7 @@ La cadena de tiendas enfrenta desafíos en la gestión eficiente de inventarios 
 ```
 ## Data
 
-Una vez que hayas descargado en tu local el arcivo  `data.sip`,deberás alojar el cotenido en un carpeta en raíz conel nombre de `/data`:
+Once you have downloaded the `data.sip` file to your local directory, you will need to place the content in a root folder named `/data`:
 
 ```bash
 mkdir data
@@ -43,9 +43,9 @@ mkdir data
 unzip data.zip -d data/
 ```
 
-## Configuración del ambiente
+## Enviroment Setup
 
-### Crear ambiente local
+### Setup Local enviroment 
 
 ```bash
 python3.10 -m venv env
