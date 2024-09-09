@@ -4,7 +4,7 @@ The objective of this project is to create a model that can support elements tha
 ## Vision
 Retailers face challenges in efficient inventory management due to variability in product sales, which is influenced by multiple factors such as promotions, seasonality, and special events. An accurate sales prediction model will help reduce storage costs, minimize losses from unsold products, and improve product availability in stores.
 
-## Project Struture
+## Project Structure
 
 ```bash
 ├── data
